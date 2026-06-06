@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/chandruxs77" target="blank"><img src="https://img.shields.io/twitter/follow/chandruxs77?logo=twitter&style=for-the-badge" alt="chandruxs77" /></a> </p>
 
-- 🌱 I’m currently learning **REACT**
+- 🌱 I’m currently learning **DEVOPS**
 
-- 💬 Ask me about **react,java,javascriept.**
+- 💬 Ask me about **Cloud,vm,docker,linux.**
 
 - 📫 How to reach me **sivachandrusiva24@gmail.com**
 
